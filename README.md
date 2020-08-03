@@ -9,11 +9,6 @@ Happy NearFormer since 2016!
 
 Then you are in the right place. Join me in this series of 4 live coding sessions where I will build a small system using GraphQL and all the required machinery to deploy it into Kubernetes using GitOps.
 
-
-![Learn Practical Kubernetes Native Development](https://user-images.githubusercontent.com/123962/87261913-f8c1e900-c4af-11ea-840e-c9b014f8a9ea.jpeg "Learn Practical Kubernetes Native Development")
-
-[Enroll here!](https://www.voxgig.events/dagonzago/devops)
-
 ### Contact me
 
 If you want to get in touch you can contact me on:
